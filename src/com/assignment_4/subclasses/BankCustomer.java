@@ -39,7 +39,7 @@ public class BankCustomer extends Human {
 
 	@Override
 	public String toString() {
-		return "BankCustomer [customerAccount=" + customerAccount + "] "+customerAccount.toString() ;
+		return "BankCustomer [customerAccount=" + customerAccount + "] " ;
 		
 	}
 	
